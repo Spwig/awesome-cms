@@ -3369,3 +3369,4 @@ JavaScript and React.js and connects to a scalable, hosted backend featuring a G
 [awesome-image]: https://flat.badgen.net/badge/icon/awesome?icon=awesome&label&color=6f41c1
 [awesome-repo]: https://github.com/sindresorhus/awesome
 [the blog post]: https://postlight.com/trackchanges/building-awesome-cms
+- [Spwig](https://github.com/Spwig/commerce) — self-hosted e-commerce platform with full control over code, data, and customers
